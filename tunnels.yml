@@ -1,0 +1,9 @@
+tunnels:
+  fn:
+    proto: http
+    addr: 8080
+    bind_tls: true
+  webserver:
+    proto: http
+    addr: 4390
+    bind_tls: false
