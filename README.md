@@ -15,13 +15,17 @@ A repository for ... blogpost.
    cd fn
    fn deploy --all --local
    
-7. Start local web server
+7. Install sync-request
+   
+   npm install sync-request
+   
+8. Start local web server
    
    node httpserver.js 
    
-8. Start listener
+9. Start listener
 
    python3 listener.py 
    
-9. Say "Calypso!"
-10. Have fun.
+10. Say "Calypso!"
+11. Have fun.
