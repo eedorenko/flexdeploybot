@@ -5,10 +5,10 @@ A repository for ... blogpost.
      
    ngrok start --config tunnels.yml --all
    
-2. Update outgoing Webhook of the Channel with https url forwarding to localhost:8080
+2. Update outgoing Webhook of the Channel on ODA  with https url forwarding to localhost:8080
 3. Update create.snapshot.js with https url forwarding to localhost:8080
-4. Pack (npm pack) and upload the custom component
-5. Update receiveFromBotFn/func.js with http utl forwarding to localhost:4390  
+4. Pack (npm pack) and upload the custom component to ODA
+5. Update receiveFromBotFn/func.js with http url forwarding to localhost:4390  
 6. Start and deploy Fn app
 
    fn start 
