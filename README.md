@@ -1,5 +1,5 @@
 # FlexDeployBot
-A repository for ... blogpost.
+A repository for https://adfpractice-fedor.blogspot.com/2018/11/conversational-ui-with-oracle-digital.html blogpost.
 
 1. Start ngrok
      
